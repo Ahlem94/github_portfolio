@@ -9,7 +9,7 @@ Education
     B.S., Physics | The University of Texas at Dallas (May 2017)
 
 Work Experience
-![image](https://github.com/Ahlem94/github_portfolio/assets/extracted_tumor.jpg)
+![image](https://github.com/Ahlem94/github_portfolio/assets/img/extracted_tumor.jpg)
 
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
