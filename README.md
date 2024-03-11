@@ -22,7 +22,7 @@ Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 
     Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
     Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-![Alt text](assets/img/Screenshot from 2024-03-11 11-04-48.png)
+![Alt text](assets/img/mri.png)
 
 Projects
 Data-Driven EEG Band Discovery with Decision Trees
