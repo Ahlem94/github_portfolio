@@ -11,6 +11,11 @@ Education
 Work Experience
 ![alt text](https://github.com/Ahlem94/github_portfolio/assets/img/extracted_tumor.jpg)
 ![Alt text](assets/img/extracted_tumor.jpg)
+![Alt text](assets/img/Screenshot from 2024-03-11 11-04-48.png)
+![Alt text](assets/img/extracted_tumor.jpg)
+![Alt text](assets/img/extracted_tumor.jpg)
+![Alt text](assets/img/extracted_tumor.jpg)
+
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
     Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
