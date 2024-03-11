@@ -4,41 +4,22 @@ Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 Education
 
-    Ph.D., Physics | The University of Texas at Dallas (May 2022)
-    M.S., Physics | The University of Texas at Dallas (December 2019)
-    B.S., Physics | The University of Texas at Dallas (May 2017)
-
-### Work Experience
+### brain tumor extraction
 ![alt text](https://github.com/Ahlem94/github_portfolio/assets/img/extracted_tumor.jpg)
 ![Alt text](assets/img/extracted_tumor.jpg)
 
-
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
-
-    Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-    Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
-    Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-    Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 ### mri diplaying brain anomalies  
 ![Alt text](assets/img/mri.png)
 
-Projects
-Data-Driven EEG Band Discovery with Decision Trees
 ### Age aggregation for cad 
 ![Alt text](assets/img/aggregation.png)
-Publication
 
+### classification 
 
 
 ![Alt text](assets/img/classification.png)
 
-EEG Band Discovery
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 
-Publication
 ###  cad rates by age category using preprocessing
 ![Alt text](assets/img/table.png)
 
