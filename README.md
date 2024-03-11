@@ -8,7 +8,7 @@ Education
     M.S., Physics | The University of Texas at Dallas (December 2019)
     B.S., Physics | The University of Texas at Dallas (May 2017)
 
-Work Experience
+### Work Experience
 ![alt text](https://github.com/Ahlem94/github_portfolio/assets/img/extracted_tumor.jpg)
 ![Alt text](assets/img/extracted_tumor.jpg)
 
