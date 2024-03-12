@@ -25,6 +25,6 @@ Education
 ###  cad rates by age category using preprocessing
 ![Alt text](assets/img/table.png)
 
-[![Video Title](thumbnail_url)](assets/img/vid_X0tuuhRm.webm)
+[![Video Title](assets/img/table.png)](assets/img/vid_X0tuuhRm.webm)
 
 
