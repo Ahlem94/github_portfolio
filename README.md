@@ -6,7 +6,7 @@ Education
 
 ### brain tumor extraction
 
-![Alt text](assets/img/extarcted_tumor.jpg)
+![Alt text](assets/img/extracted_tumor.jpg)
 
 
 ### draw brain tumor extraction
@@ -18,9 +18,7 @@ Education
 ![Alt text](assets/img/contour_enc.jpg)
 
 
-### mri diplaying brain anomalies 
 
-![Alt text](assets/img/extracted_tumor.jpg)
 
 ### mri diplaying brain anomalies 
 
