@@ -2,10 +2,13 @@
 
 
 Ahlem Midini
-Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
 
+
+Data Scientist 
+- Medical Diagnosis AI Toolkit
+- Medical Data Preprocessing Optimization
+- MRI Processing for Illness Classification
+- Technologies : Numpy, Pandas, TensorFlow, Scipy, Scikit-learn, Skimage, Opencv
 ### brain tumor extraction
 
 ![Alt text](assets/img/extracted_tumor.jpg)
