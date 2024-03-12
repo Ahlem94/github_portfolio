@@ -6,6 +6,20 @@ Education
 
 ### brain tumor extraction
 
+![Alt text](assets/img/contour_tumor.jpg)
+
+
+### draw brain tumor extraction
+
+![Alt text](assets/img/extracted_tumor.jpg)
+
+### draw contour brain encyphalitis  
+
+![Alt text](assets/img/contour_enc.jpg)
+
+
+### mri diplaying brain anomalies 
+
 ![Alt text](assets/img/extracted_tumor.jpg)
 
 ### mri diplaying brain anomalies 
@@ -25,6 +39,5 @@ Education
 ###  cad rates by age category using preprocessing
 ![Alt text](assets/img/table.png)
 
-[![Video Title](assets/img/table.png)](assets/img/vid_X0tuuhRm.webm)
 
 
